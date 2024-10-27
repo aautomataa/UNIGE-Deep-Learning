@@ -1,2 +1,2 @@
-# UNIGE-Deep-Learning-
-self-learning program
+# UNIGE-Deep-Learning
+https://fleuret.org/dlc/
